@@ -1,0 +1,39 @@
+
+    body {
+        background-color: rgb(63, 84, 84);
+        color: aliceblue
+    }
+
+    a {
+        color: rgb(157, 135, 177);
+    }
+
+    h1 {
+        color: red;
+    }
+
+    h2 {
+        color: rgb(206, 135, 135);
+    }
+
+    ul {
+        list-style-type: square;
+    }
+    nav ul li {
+        margin-right: 10px;
+        display: inline;
+        text-transform: capitalize;
+    }
+
+    a {
+        text-decoration: none;
+    }
+    h1 {
+        text-decoration: underline;
+    }
+    .underline{
+        color: aliceblue;
+        text-decoration: underline; 
+       
+
+    }
